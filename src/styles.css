@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  height: 700px;
+  width: 900px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.TreeRectangle {
+  transition: all 1s;
+}
